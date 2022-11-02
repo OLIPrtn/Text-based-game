@@ -1,0 +1,23 @@
+C:\Users\298237\source\repos\residentevil\residentevil\bin\Debug\residentevil.exe.config
+C:\Users\298237\source\repos\residentevil\residentevil\bin\Debug\residentevil.exe
+C:\Users\298237\source\repos\residentevil\residentevil\bin\Debug\residentevil.pdb
+C:\Users\298237\source\repos\residentevil\residentevil\obj\Debug\residentevil.csprojAssemblyReference.cache
+C:\Users\298237\source\repos\residentevil\residentevil\obj\Debug\residentevil.csproj.CoreCompileInputs.cache
+C:\Users\298237\source\repos\residentevil\residentevil\obj\Debug\residentevil.exe
+C:\Users\298237\source\repos\residentevil\residentevil\obj\Debug\residentevil.pdb
+O:\residentevil.exe.config
+O:\residentevil.exe
+O:\residentevil.pdb
+O:\ICT LVL 2 Enhanced\re7\residentevil.exe.config
+O:\ICT LVL 2 Enhanced\re7\residentevil.exe
+O:\ICT LVL 2 Enhanced\re7\residentevil.pdb
+N:\residentevil\residentevil\obj\Debug\residentevil.csprojAssemblyReference.cache
+N:\residentevil\residentevil\obj\Debug\residentevil.csproj.CoreCompileInputs.cache
+N:\residentevil\residentevil\obj\Debug\residentevil.exe
+N:\residentevil\residentevil\obj\Debug\residentevil.pdb
+N:\residentevil.exe.config
+N:\residentevil.exe
+N:\residentevil.pdb
+O:\ICT LVL 2 Enhanced\game\residentevil.exe.config
+O:\ICT LVL 2 Enhanced\game\residentevil.exe
+O:\ICT LVL 2 Enhanced\game\residentevil.pdb
